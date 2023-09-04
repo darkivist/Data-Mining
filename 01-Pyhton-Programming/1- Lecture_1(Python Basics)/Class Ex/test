@@ -1,0 +1,4 @@
+from random import shuffle
+2 x = [ ’ keep ’ , ’the ’ , ’ blue ’ , ’ flag ’ , ’ flying ’ , ’ high ’]
+3 shuffle ( x )
+4 print ( x )
